@@ -42,4 +42,4 @@ function constructNote(messageStr, lettersStr) {
   return true;
 }
 
-module.exports = constructNote; 
+module.exports = constructNote;   
